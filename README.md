@@ -1,16 +1,15 @@
-# live_notes
+Tugas Praktikum (Challenge)
+Untuk memvalidasi pemahaman Anda, kerjakan tantangan berikut di sisa waktu praktikum:
+1. Update Feature: Tambahkan fitur edit. Ketika ListTile ditekan (onTap), munculkan
+formulir yang sudah terisi data lama, dan update data tersebut di Firebase menggunakan
+perintah .update().
+2. Testing: Jalankan aplikasi di 2 device berbeda (Emulator HP Fisik atau 2 Emulator).
+Buktikan bahwa data tersinkronisasi secara otomatis
 
-A new Flutter project.
+Hasil
+![live notes1](https://github.com/user-attachments/assets/b0b2009e-a796-40d3-82ca-e809a5ea8fc7)
 
-## Getting Started
+![live notes2](https://github.com/user-attachments/assets/9e137d06-f387-4c89-aa75-e5aacda261c2)
 
-This project is a starting point for a Flutter application.
+![live notes3](https://github.com/user-attachments/assets/30a8e434-f4ad-4b54-b57b-d611a84228ca)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
